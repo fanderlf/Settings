@@ -1,0 +1,564 @@
+<Shortcuts>
+  <VSCommands>
+    <VSCommand VsCommandID="({c7547851-4e3a-4e5b-9173-fa6e9c8bd82c}:43)" scope="Global" shortcut="Shift+Alt+N" />
+    <VSCommand VsCommandID="({c7547851-4e3a-4e5b-9173-fa6e9c8bd82c}:44)" scope="Global" shortcut="Shift+Alt+O" />
+    <VSCommand VsCommandID="({e4b9bb05-1963-4774-8cfc-518359e3fce3}:12034)" scope="Managed Resources Editor" shortcut="Control+Delete" />
+    <VSCommand VsCommandID="({e4b9bb05-1963-4774-8cfc-518359e3fce3}:12034)" scope="Settings Designer" shortcut="Control+Delete" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:17)" scope="Class Diagram" shortcut="Control+Delete" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:91)" scope="Text Editor" shortcut="Control+Delete" />
+    <VSCommand VsCommandID="({e4b9bb05-1963-4774-8cfc-518359e3fce3}:12032)" scope="Managed Resources Editor" shortcut="F2" />
+    <VSCommand VsCommandID="({e4b9bb05-1963-4774-8cfc-518359e3fce3}:12032)" scope="Settings Designer" shortcut="F2" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:338)" scope="Global" shortcut="F2" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1550)" scope="Text Editor" shortcut="F2" />
+    <VSCommand VsCommandID="({f05e92cd-8346-11d3-b4ad-00a0c9b04e7b}:6177)" scope="Crystal Report Editor" shortcut="Control+PageUp" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:287)" scope="Global" shortcut="Control+PageUp" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:287)" scope="HTML Editor Design View" shortcut="Control+PageUp" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:287)" scope="HTML Editor Source View" shortcut="Control+PageUp" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:31)" scope="Text Editor" shortcut="Control+PageUp" />
+    <VSCommand VsCommandID="({f05e92cd-8346-11d3-b4ad-00a0c9b04e7b}:6178)" scope="Crystal Report Editor" shortcut="Control+Next" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:286)" scope="Global" shortcut="Control+Next" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1043)" scope="HTML Editor Design View" shortcut="Control+Next" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1043)" scope="HTML Editor Source View" shortcut="Control+Next" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:33)" scope="Text Editor" shortcut="Control+Next" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1)" scope="VC Dialog Editor" shortcut="Shift+Control+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1228)" scope="Global" shortcut="Shift+Control+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1228)" scope="Windows Forms Designer" shortcut="Shift+Control+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1228)" scope="Report Designer" shortcut="Shift+Control+Down" />
+    <VSCommand VsCommandID="({161abeec-5930-4cd8-a5a6-069f6beb75b1}:2582)" scope="Text Editor" shortcut="Shift+Control+Down" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:2)" scope="VC Dialog Editor" shortcut="F9" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:255)" scope="Global" shortcut="F9" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:3)" scope="VC Dialog Editor" shortcut="Shift+Control+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:94)" scope="Text Editor" shortcut="Shift+Control+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1230)" scope="Global" shortcut="Shift+Control+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1230)" scope="Windows Forms Designer" shortcut="Shift+Control+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1230)" scope="Report Designer" shortcut="Shift+Control+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1360)" scope="VC Image Editor" shortcut="Shift+Control+Left" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:4)" scope="VC Dialog Editor" shortcut="Shift+Control+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:97)" scope="Text Editor" shortcut="Shift+Control+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1231)" scope="Global" shortcut="Shift+Control+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1231)" scope="Windows Forms Designer" shortcut="Shift+Control+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1231)" scope="Report Designer" shortcut="Shift+Control+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1362)" scope="VC Image Editor" shortcut="Shift+Control+Right" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:6)" scope="VC Dialog Editor" shortcut="Shift+Control+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1229)" scope="Global" shortcut="Shift+Control+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1229)" scope="Windows Forms Designer" shortcut="Shift+Control+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1229)" scope="Report Designer" shortcut="Shift+Control+Up" />
+    <VSCommand VsCommandID="({161abeec-5930-4cd8-a5a6-069f6beb75b1}:2583)" scope="Text Editor" shortcut="Shift+Control+Up" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:7)" scope="VC Dialog Editor" shortcut="Shift+F9" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:254)" scope="Global" shortcut="Shift+F9" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:15)" scope="Global" shortcut="Control+C" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:15)" scope="Global" shortcut="Control+Insert" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:16)" scope="Global" shortcut="Control+X" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:16)" scope="Global" shortcut="Shift+Delete" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:17)" scope="Global" shortcut="Delete" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:168)" scope="Managed Resources Editor" shortcut="Delete" />
+    <VSCommand VsCommandID="({fb41a027-57c5-4f83-9508-c326dce6d943}:10500)" scope="Class Diagram" shortcut="Delete" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:26)" scope="Global" shortcut="Control+V" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:26)" scope="Global" shortcut="Shift+Insert" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:27)" scope="Global" shortcut="Control+P" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:29)" scope="Global" shortcut="Control+Y" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:29)" scope="Global" shortcut="Shift+Alt+Back" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:29)" scope="Global" shortcut="Shift+Control+Z" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:31)" scope="Global" shortcut="Control+A" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1307)" scope="VC Image Editor" shortcut="Control+A" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:42)" scope="Global" shortcut="Control+Alt+X" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:42)" scope="Global" shortcut="Control+W X" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:42)" scope="Global" shortcut="Control+W Control+X" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:234)" scope="Global" shortcut="Control+W S" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:234)" scope="Global" shortcut="Control+W Control+S" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:235)" scope="Global" shortcut="Control+W P" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:235)" scope="Global" shortcut="Control+W Control+P" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:236)" scope="Global" shortcut="Control+W T" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:236)" scope="Global" shortcut="Control+W Control+T" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:237)" scope="Global" shortcut="Control+W O" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:237)" scope="Global" shortcut="Control+W Control+O" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:238)" scope="Global" shortcut="Control+W J" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:238)" scope="Global" shortcut="Control+W Control+J" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:239)" scope="Global" shortcut="Control+W U" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:239)" scope="Global" shortcut="Control+W Control+U" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:320)" scope="Global" shortcut="Control+W E" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:320)" scope="Global" shortcut="Control+W Control+E" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:599)" scope="Global" shortcut="Control+W C" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:599)" scope="Global" shortcut="Control+W Control+C" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:729)" scope="Global" shortcut="Control+W A" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:729)" scope="Global" shortcut="Control+W Control+A" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:978)" scope="Global" shortcut="Control+W Q" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:978)" scope="Global" shortcut="Control+W Control+Q" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1023)" scope="Global" shortcut="Control+W R" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1023)" scope="Global" shortcut="Control+W Control+R" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1122)" scope="Global" shortcut="Control+W B" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1122)" scope="Global" shortcut="Control+W Control+B" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:90)" scope="Text Editor" shortcut="Control+W" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1233)" scope="VC Accelerator Editor" shortcut="Control+W" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1926)" scope="Global" shortcut="Control+W D" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1926)" scope="Global" shortcut="Control+W Control+D" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:2260)" scope="Global" shortcut="Control+W L" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:2260)" scope="Global" shortcut="Control+W Control+L" />
+    <VSCommand VsCommandID="({e8b06f44-6d01-11d2-aa7d-00c04f990343}:4999)" scope="Global" shortcut="Control+W W" />
+    <VSCommand VsCommandID="({e8b06f44-6d01-11d2-aa7d-00c04f990343}:4999)" scope="Global" shortcut="Control+W Control+W" />
+    <VSCommand VsCommandID="({aa8eb8cd-7a51-11d0-92c3-00a0c9138c45}:11160)" scope="Global" shortcut="Control+W G" />
+    <VSCommand VsCommandID="({aa8eb8cd-7a51-11d0-92c3-00a0c9138c45}:11160)" scope="Global" shortcut="Control+W Control+G" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:43)" scope="Global" shortcut="Control+Z" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:43)" scope="Global" shortcut="Alt+Back" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:52)" scope="HTML Editor Design View" shortcut="Control+B" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:75)" scope="Text Editor" shortcut="Control+B C" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:75)" scope="Text Editor" shortcut="Control+B Control+C" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:76)" scope="Text Editor" shortcut="Control+B T" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:76)" scope="Text Editor" shortcut="Control+B Control+T" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:77)" scope="Text Editor" shortcut="Control+B N" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:77)" scope="Text Editor" shortcut="Control+B Control+N" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:78)" scope="Text Editor" shortcut="Control+B P" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:78)" scope="Text Editor" shortcut="Control+B Control+P" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:560)" scope="Text Editor" shortcut="Control+B E" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:560)" scope="Text Editor" shortcut="Control+B Control+E" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1211)" scope="VC Dialog Editor" shortcut="Control+B" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1306)" scope="VC Image Editor" shortcut="Control+B" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:311)" scope="Global" shortcut="Control+B" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:70)" scope="HTML Editor Design View" shortcut="Control+I" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:122)" scope="Text Editor" shortcut="Control+I" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1305)" scope="VC Image Editor" shortcut="Control+I" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:77)" scope="HTML Editor Design View" shortcut="Control+U" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:47)" scope="Text Editor" shortcut="Control+U" />
+    <VSCommand VsCommandID="({e148f049-c570-4f55-84a6-6da870af229e}:34414)" scope="VC Image Editor" shortcut="Control+U" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:97)" scope="Global" shortcut="Control+F" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1304)" scope="VC Image Editor" shortcut="Control+F" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:179)" scope="Global" shortcut="Shift+F5" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:180)" scope="Global" shortcut="Control+Alt+Pause" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:207)" scope="Query Designer" shortcut="Control+G" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:207)" scope="View Designer" shortcut="Control+G" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:231)" scope="Global" shortcut="Control+G" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1204)" scope="VC Dialog Editor" shortcut="Control+G" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:214)" scope="Global" shortcut="Control+D T" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:214)" scope="Global" shortcut="Control+D Control+T" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:240)" scope="Global" shortcut="Control+D I" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:240)" scope="Global" shortcut="Control+D Control+I" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:242)" scope="Global" shortcut="Control+D L" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:242)" scope="Global" shortcut="Control+D Control+L" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:243)" scope="Global" shortcut="Control+D C" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:243)" scope="Global" shortcut="Control+D Control+C" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:254)" scope="Global" shortcut="Control+D Q" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:254)" scope="Global" shortcut="Control+D Control+Q" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:339)" scope="Global" shortcut="Control+D E" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:339)" scope="Global" shortcut="Control+D Control+E" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:747)" scope="Global" shortcut="Control+D A" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:747)" scope="Global" shortcut="Control+D Control+A" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1209)" scope="VC Dialog Editor" shortcut="Control+D" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:256)" scope="Global" shortcut="Control+D B" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:256)" scope="Global" shortcut="Control+D Control+B" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:259)" scope="Global" shortcut="Control+D R" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:259)" scope="Global" shortcut="Control+D Control+R" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:260)" scope="Global" shortcut="Control+D M" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:260)" scope="Global" shortcut="Control+D Control+M" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:305)" scope="Global" shortcut="Control+D P" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:305)" scope="Global" shortcut="Control+D Control+P" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:311)" scope="Global" shortcut="Control+D N" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:311)" scope="Global" shortcut="Control+D Control+N" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:8201)" scope="Global" shortcut="Control+D D" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:8201)" scope="Global" shortcut="Control+D Control+D" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:16777728)" scope="Global" shortcut="Control+D Y" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:16777728)" scope="Global" shortcut="Control+D Control+Y" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:16777984)" scope="Global" shortcut="Control+D W" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:16777984)" scope="Global" shortcut="Control+D Control+W" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:216)" scope="Global" shortcut="Shift+Control+N" />
+    <VSCommand VsCommandID="({d7e8c5e1-bdb8-11d0-9c88-0000f8040a53}:4431)" scope="HTML Editor Design View" shortcut="Shift+Control+N" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:217)" scope="Global" shortcut="Shift+Control+O" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:220)" scope="Global" shortcut="Shift+Control+A" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:221)" scope="Global" shortcut="Control+N" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:222)" scope="Global" shortcut="Control+O" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:224)" scope="Global" shortcut="Shift+Control+S" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:230)" scope="Global" shortcut="Control+H" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1236)" scope="VC Image Editor" shortcut="Control+H" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:232)" scope="Global" shortcut="Shift+F4" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:233)" scope="Global" shortcut="Shift+Alt+Return" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:234)" scope="Global" shortcut="Control+Alt+L" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:235)" scope="Global" shortcut="F4" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:237)" scope="Global" shortcut="Control+Alt+O" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:238)" scope="Global" shortcut="Control+Alt+J" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:240)" scope="Global" shortcut="Control+Alt+I" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:243)" scope="Global" shortcut="Control+Alt+C" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:244)" scope="Global" shortcut="Shift+Alt+A" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:248)" scope="Global" shortcut="F11" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:249)" scope="Global" shortcut="F10" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:250)" scope="Global" shortcut="Shift+F11" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:251)" scope="Global" shortcut="Control+F10" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:254)" scope="Global" shortcut="Control+Alt+Q" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:256)" scope="Global" shortcut="Shift+Control+F9" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1207)" scope="VC Dialog Editor" shortcut="Shift+Control+F9" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:258)" scope="Global" shortcut="Shift+Control+F10" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:259)" scope="Global" shortcut="Alt+Multiply" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:277)" scope="Global" shortcut="Shift+Control+F" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:278)" scope="Global" shortcut="Shift+Control+H" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1238)" scope="VC Image Editor" shortcut="Shift+Control+H" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:279)" scope="Global" shortcut="F8" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:280)" scope="Global" shortcut="Shift+F8" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:288)" scope="Global" shortcut="Shift+Escape" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:289)" scope="Global" shortcut="Escape" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:103)" scope="Managed Resources Editor" shortcut="Escape" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:103)" scope="Settings Designer" shortcut="Escape" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:103)" scope="Windows Forms Designer" shortcut="Escape" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:103)" scope="Text Editor" shortcut="Escape" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:103)" scope="Report Designer" shortcut="Escape" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:293)" scope="Global" shortcut="Control+F2" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:295)" scope="Global" shortcut="F5" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:296)" scope="Global" shortcut="Shift+Control+F5" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:316)" scope="Global" shortcut="Alt+F6" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:317)" scope="Global" shortcut="Shift+Alt+F6" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:331)" scope="Global" shortcut="Control+S" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:332)" scope="HTML Editor Source View" shortcut="Shift+F7" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:332)" scope="Global" shortcut="Shift+F7" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:449)" scope="HTML Editor Design View" shortcut="Shift+F7" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1205)" scope="VC Dialog Editor" shortcut="Shift+F7" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:333)" scope="Settings Designer" shortcut="F7" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:333)" scope="Global" shortcut="F7" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:333)" scope="Class Diagram" shortcut="Return" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:3)" scope="Windows Forms Designer" shortcut="Return" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:3)" scope="Text Editor" shortcut="Return" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:3)" scope="Report Designer" shortcut="Return" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1501)" scope="Global" shortcut="Return" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:339)" scope="Global" shortcut="Control+Alt+E" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:355)" scope="Global" shortcut="Alt+F3 S" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:368)" scope="Global" shortcut="Control+F5" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:370)" scope="Global" shortcut="F3" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:371)" scope="Global" shortcut="Shift+F3" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:372)" scope="Global" shortcut="Control+F3" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:373)" scope="Global" shortcut="Shift+Control+F3" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:376)" scope="Global" shortcut="Control+F9" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1206)" scope="VC Dialog Editor" shortcut="Control+F9" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:377)" scope="Global" shortcut="F1" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:397)" scope="Global" shortcut="Alt+Return" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:599)" scope="Global" shortcut="Shift+Control+C" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:628)" scope="Global" shortcut="Control+F6" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:629)" scope="Global" shortcut="Shift+Control+F6" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:655)" scope="Global" shortcut="Shift+Control+V" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:655)" scope="Global" shortcut="Shift+Control+Insert" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:658)" scope="Global" shortcut="Control+F4" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:729)" scope="Global" shortcut="Control+Alt+A" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:809)" scope="Global" shortcut="Control+Subtract" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1356)" scope="VC Image Editor" shortcut="Control+Subtract" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:810)" scope="Global" shortcut="Shift+Control+Subtract" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:882)" scope="Global" shortcut="Shift+Control+B" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:882)" scope="Global" shortcut="F6" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:886)" scope="Global" shortcut="Shift+F6" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:890)" scope="Global" shortcut="Control+Pause" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:935)" scope="Global" shortcut="F12" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:936)" scope="Global" shortcut="Control+F12" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:946)" scope="Global" shortcut="Shift+Alt+C" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:977)" scope="Global" shortcut="Alt+F12" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1023)" scope="Global" shortcut="Shift+Control+E" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1038)" scope="Global" shortcut="Shift+F1" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1060)" scope="Global" shortcut="Control+Alt+P" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1122)" scope="Global" shortcut="Control+K Control+W" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1123)" scope="Global" shortcut="Control+K Control+B" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1915)" scope="Global" shortcut="Control+K R" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1915)" scope="Global" shortcut="Control+K Control+R" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:51)" scope="Text Editor" shortcut="Control+K Control+A" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:76)" scope="Text Editor" shortcut="Control+K Control+K" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:77)" scope="Global" shortcut="Control+K Control+N" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:78)" scope="Global" shortcut="Control+K Control+P" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:104)" scope="Text Editor" shortcut="Control+K P" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:104)" scope="Text Editor" shortcut="Control+K Control+P" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:107)" scope="Text Editor" shortcut="Control+K W" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:107)" scope="Text Editor" shortcut="Control+K Control+W" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:108)" scope="Text Editor" shortcut="Control+K L" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:108)" scope="Text Editor" shortcut="Control+K Control+L" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:112)" scope="Text Editor" shortcut="Control+K Control+F" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:115)" scope="Text Editor" shortcut="Control+K Control+H" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:116)" scope="Text Editor" shortcut="Control+K Control+I" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:116)" scope="Text Editor" shortcut="Control+K I" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:136)" scope="Text Editor" shortcut="Control+K Control+C" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:137)" scope="Text Editor" shortcut="Control+K Control+U" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:143)" scope="Text Editor" shortcut="Control+K Control+D" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:323)" scope="Global" shortcut="Control+K Control+X" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:323)" scope="Global" shortcut="Control+K X" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1557)" scope="Global" shortcut="Control+K M" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1557)" scope="Global" shortcut="Control+K Control+M" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1561)" scope="Global" shortcut="Control+K Control+S" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1561)" scope="Global" shortcut="Control+K S" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1680)" scope="Global" shortcut="Control+K Control+V" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1124)" scope="Global" shortcut="Control+Tab" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1125)" scope="Global" shortcut="Shift+Control+Tab" />
+    <VSCommand VsCommandID="({5efc7975-14bc-11cf-9b2b-00aa00573819}:1915)" scope="Global" shortcut="Shift+F12" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:2)" scope="Text Editor" shortcut="Shift+Back" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:2)" scope="Text Editor" shortcut="Back" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:3)" scope="Text Editor" shortcut="Shift+Return" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:4)" scope="Windows Forms Designer" shortcut="Tab" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:4)" scope="Text Editor" shortcut="Tab" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:4)" scope="Report Designer" shortcut="Tab" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1510)" scope="Global" shortcut="Tab" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:5)" scope="Windows Forms Designer" shortcut="Shift+Tab" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:5)" scope="Text Editor" shortcut="Shift+Tab" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:5)" scope="Report Designer" shortcut="Shift+Tab" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1511)" scope="Global" shortcut="Shift+Tab" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:7)" scope="Windows Forms Designer" shortcut="Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:7)" scope="Text Editor" shortcut="Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:7)" scope="Report Designer" shortcut="Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1224)" scope="VC Dialog Editor" shortcut="Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1504)" scope="Global" shortcut="Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:8)" scope="Windows Forms Designer" shortcut="Shift+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:8)" scope="Text Editor" shortcut="Shift+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:8)" scope="Report Designer" shortcut="Shift+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1230)" scope="VC Dialog Editor" shortcut="Shift+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1508)" scope="Global" shortcut="Shift+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:9)" scope="Windows Forms Designer" shortcut="Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:9)" scope="Text Editor" shortcut="Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:9)" scope="Report Designer" shortcut="Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1226)" scope="VC Dialog Editor" shortcut="Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1505)" scope="Global" shortcut="Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:10)" scope="Windows Forms Designer" shortcut="Shift+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:10)" scope="Text Editor" shortcut="Shift+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:10)" scope="Report Designer" shortcut="Shift+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1231)" scope="VC Dialog Editor" shortcut="Shift+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1506)" scope="Global" shortcut="Shift+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:11)" scope="Windows Forms Designer" shortcut="Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:11)" scope="Text Editor" shortcut="Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:11)" scope="Report Designer" shortcut="Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1227)" scope="VC Dialog Editor" shortcut="Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1502)" scope="Global" shortcut="Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:12)" scope="Windows Forms Designer" shortcut="Shift+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:14)" scope="Text Editor" shortcut="Shift+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:14)" scope="Report Designer" shortcut="Shift+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1228)" scope="VC Dialog Editor" shortcut="Shift+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1509)" scope="Global" shortcut="Shift+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:12)" scope="Text Editor" shortcut="Shift+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:12)" scope="Report Designer" shortcut="Shift+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:14)" scope="Windows Forms Designer" shortcut="Shift+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1229)" scope="VC Dialog Editor" shortcut="Shift+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1507)" scope="Global" shortcut="Shift+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:13)" scope="Windows Forms Designer" shortcut="Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:13)" scope="Text Editor" shortcut="Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:13)" scope="Report Designer" shortcut="Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1225)" scope="VC Dialog Editor" shortcut="Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1503)" scope="Global" shortcut="Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:15)" scope="Windows Forms Designer" shortcut="Home" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:19)" scope="Text Editor" shortcut="Home" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:15)" scope="Text Editor" shortcut="Control+Home" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:16)" scope="Windows Forms Designer" shortcut="Shift+Home" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:20)" scope="Text Editor" shortcut="Shift+Home" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:16)" scope="Text Editor" shortcut="Shift+Control+Home" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:17)" scope="Windows Forms Designer" shortcut="End" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:23)" scope="Text Editor" shortcut="End" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:17)" scope="Text Editor" shortcut="Control+End" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:18)" scope="Windows Forms Designer" shortcut="Shift+End" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:24)" scope="Text Editor" shortcut="Shift+End" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:18)" scope="Text Editor" shortcut="Shift+Control+End" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:27)" scope="Text Editor" shortcut="PageUp" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:28)" scope="Text Editor" shortcut="Shift+PageUp" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:29)" scope="Text Editor" shortcut="Next" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:30)" scope="Text Editor" shortcut="Shift+Next" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:32)" scope="Text Editor" shortcut="Shift+Control+PageUp" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:34)" scope="Text Editor" shortcut="Shift+Control+Next" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:35)" scope="VC Dialog Editor" shortcut="Control+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:35)" scope="Text Editor" shortcut="Control+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1227)" scope="Global" shortcut="Control+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1227)" scope="HTML Editor Design View" shortcut="Control+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1227)" scope="Windows Forms Designer" shortcut="Control+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1227)" scope="Report Designer" shortcut="Control+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1357)" scope="VC Image Editor" shortcut="Control+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:36)" scope="VC Dialog Editor" shortcut="Control+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:36)" scope="Text Editor" shortcut="Control+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1225)" scope="Global" shortcut="Control+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1225)" scope="HTML Editor Design View" shortcut="Control+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1225)" scope="Windows Forms Designer" shortcut="Control+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1225)" scope="Report Designer" shortcut="Control+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1358)" scope="VC Image Editor" shortcut="Control+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:39)" scope="VC Dialog Editor" shortcut="Control+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:93)" scope="Text Editor" shortcut="Control+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1224)" scope="Global" shortcut="Control+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1224)" scope="Windows Forms Designer" shortcut="Control+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1224)" scope="Report Designer" shortcut="Control+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1359)" scope="VC Image Editor" shortcut="Control+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:40)" scope="VC Dialog Editor" shortcut="Control+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:96)" scope="Text Editor" shortcut="Control+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1226)" scope="Global" shortcut="Control+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1226)" scope="Windows Forms Designer" shortcut="Control+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1226)" scope="Report Designer" shortcut="Control+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1361)" scope="VC Image Editor" shortcut="Control+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:48)" scope="Text Editor" shortcut="Shift+Control+U" />
+    <VSCommand VsCommandID="({e148f049-c570-4f55-84a6-6da870af229e}:34411)" scope="VC Image Editor" shortcut="Shift+Control+U" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:51)" scope="Text Editor" shortcut="Control+E A" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:51)" scope="Text Editor" shortcut="Control+E Control+A" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:105)" scope="Text Editor" shortcut="Control+E S" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:105)" scope="Text Editor" shortcut="Control+E Control+S" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:121)" scope="Text Editor" shortcut="Control+E Control+W" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:121)" scope="Text Editor" shortcut="Control+E W" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:143)" scope="Text Editor" shortcut="Control+E D" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:143)" scope="Text Editor" shortcut="Control+E Control+D" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:57)" scope="Text Editor" shortcut="Insert" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1232)" scope="VC Accelerator Editor" shortcut="Insert" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1240)" scope="VC String Editor" shortcut="Insert" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1250)" scope="VC Image Editor" shortcut="Insert" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1968)" scope="DataSet Editor" shortcut="Insert" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:61)" scope="Text Editor" shortcut="Control+L" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:280)" scope="HTML Editor Design View" shortcut="Control+L" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1308)" scope="VC Image Editor" shortcut="Control+L" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1955)" scope="DataSet Editor" shortcut="Control+L" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:62)" scope="Text Editor" shortcut="Shift+Control+L" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:279)" scope="HTML Editor Design View" shortcut="Shift+Control+L" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:68)" scope="Text Editor" shortcut="Shift+Control+Return" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:92)" scope="Text Editor" shortcut="Control+Back" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:104)" scope="Text Editor" shortcut="Shift+Control+Space" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:105)" scope="Text Editor" shortcut="Control+R Control+W" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1551)" scope="Global" shortcut="Control+R Control+M" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1551)" scope="Global" shortcut="Control+R M" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1553)" scope="Global" shortcut="Control+R Control+I" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1553)" scope="Global" shortcut="Control+R I" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1554)" scope="Global" shortcut="Control+R Control+P" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1554)" scope="Global" shortcut="Control+R P" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1555)" scope="Global" shortcut="Control+R Control+V" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1555)" scope="Global" shortcut="Control+R V" />
+    <VSCommand VsCommandID="({b85579aa-8be0-4c4f-a850-90902b317571}:13070)" scope="Global" shortcut="Control+R F" />
+    <VSCommand VsCommandID="({b85579aa-8be0-4c4f-a850-90902b317571}:12305)" scope="Global" shortcut="Control+R C" />
+    <VSCommand VsCommandID="({b85579aa-8be0-4c4f-a850-90902b317571}:12306)" scope="Global" shortcut="Control+R Control+C" />
+    <VSCommand VsCommandID="({b85579aa-8be0-4c4f-a850-90902b317571}:12307)" scope="Global" shortcut="Control+R N" />
+    <VSCommand VsCommandID="({b85579aa-8be0-4c4f-a850-90902b317571}:12308)" scope="Global" shortcut="Control+R Control+N" />
+    <VSCommand VsCommandID="({b85579aa-8be0-4c4f-a850-90902b317571}:12303)" scope="Global" shortcut="Control+R T" />
+    <VSCommand VsCommandID="({b85579aa-8be0-4c4f-a850-90902b317571}:12302)" scope="Global" shortcut="Control+R A" />
+    <VSCommand VsCommandID="({b85579aa-8be0-4c4f-a850-90902b317571}:12304)" scope="Global" shortcut="Control+R Control+T" />
+    <VSCommand VsCommandID="({b85579aa-8be0-4c4f-a850-90902b317571}:12299)" scope="Global" shortcut="Control+R Control+A" />
+    <VSCommand VsCommandID="({b85579aa-8be0-4c4f-a850-90902b317571}:13141)" scope="Global" shortcut="Control+R Control+F" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:107)" scope="Text Editor" shortcut="Alt+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1201)" scope="VC Dialog Editor" shortcut="Alt+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1801)" scope="Global" shortcut="Alt+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:107)" scope="Text Editor" shortcut="Control+Space" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:108)" scope="Text Editor" shortcut="Control+J" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1247)" scope="VC Image Editor" shortcut="Control+J" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:117)" scope="Text Editor" shortcut="Shift+Alt+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:118)" scope="Text Editor" shortcut="Shift+Alt+Right" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:119)" scope="Text Editor" shortcut="Shift+Alt+Up" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:120)" scope="Text Editor" shortcut="Shift+Alt+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:123)" scope="Text Editor" shortcut="Shift+Control+I" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1303)" scope="VC Image Editor" shortcut="Shift+Control+I" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:124)" scope="Text Editor" shortcut="Shift+Alt+Home" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:125)" scope="Text Editor" shortcut="Shift+Alt+End" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:128)" scope="Text Editor" shortcut="Control+M Control+H" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:129)" scope="Text Editor" shortcut="Control+M Control+M" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:129)" scope="Text Editor" shortcut="Control+M M" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:130)" scope="Text Editor" shortcut="Control+M Control+L" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:130)" scope="Text Editor" shortcut="Control+M L" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:131)" scope="Text Editor" shortcut="Control+M Control+P" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:131)" scope="Text Editor" shortcut="Control+M P" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:132)" scope="Text Editor" shortcut="Control+M Control+U" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:133)" scope="Text Editor" shortcut="Control+M Control+O" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:133)" scope="Text Editor" shortcut="Control+M O" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:322)" scope="HTML Editor Design View" shortcut="Control+M Control+M" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:325)" scope="Text Editor" shortcut="Control+M Control+T" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:413)" scope="HTML Editor Design View" shortcut="Control+M Control+C" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1246)" scope="VC Dialog Editor" shortcut="Control+M" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1321)" scope="VC Image Editor" shortcut="Control+M" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:138)" scope="Global" shortcut="Shift+Control+G" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:145)" scope="Text Editor" shortcut="Alt+OemPeriod" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:146)" scope="Text Editor" shortcut="Alt+Oemcomma" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:147)" scope="Global" shortcut="Shift+Alt+F10" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:147)" scope="HTML Editor Design View" shortcut="Shift+Alt+F10" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:147)" scope="Global" shortcut="Control+OemPeriod" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1355)" scope="VC Image Editor" shortcut="Control+OemPeriod" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:148)" scope="Text Editor" shortcut="Shift+Control+Alt+C" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:149)" scope="Text Editor" shortcut="Shift+Control+Alt+P" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1319)" scope="VC Image Editor" shortcut="Shift+Control+Alt+P" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:305)" scope="HTML Editor Source View" shortcut="Shift+Control+OemPeriod" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1357)" scope="VC Image Editor" shortcut="Shift+Control+OemPeriod" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:350)" scope="Global" shortcut="Control+F7" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1201)" scope="VC Dialog Editor" shortcut="Alt+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1800)" scope="Global" shortcut="Alt+Left" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1237)" scope="VC Image Editor" shortcut="Shift+Alt+H" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1255)" scope="VC Image Editor" shortcut="Control+Alt+S" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:2260)" scope="Global" shortcut="Control+Alt+S" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1256)" scope="VC Image Editor" shortcut="Shift+Control+Alt+S" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1257)" scope="VC Image Editor" shortcut="Shift+Control+M" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1300)" scope="VC Image Editor" shortcut="Shift+Alt+S" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1311)" scope="VC Image Editor" shortcut="Alt+R" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1312)" scope="VC Image Editor" shortcut="Shift+Alt+R" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1313)" scope="VC Image Editor" shortcut="Shift+Control+Alt+R" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1314)" scope="VC Image Editor" shortcut="Alt+W" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1315)" scope="VC Image Editor" shortcut="Shift+Alt+W" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1316)" scope="VC Image Editor" shortcut="Shift+Control+Alt+W" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1317)" scope="VC Image Editor" shortcut="Alt+P" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1318)" scope="VC Image Editor" shortcut="Shift+Alt+P" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1643)" scope="Global" shortcut="Control+Alt+Down" />
+    <VSCommand VsCommandID="({d7e8c5e1-bdb8-11d0-9c88-0000f8040a53}:4417)" scope="HTML Editor Design View" shortcut="Control+Alt+Down" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1644)" scope="Global" shortcut="Alt+F7" />
+    <VSCommand VsCommandID="({1496a755-94de-11d0-8c3f-00c04fc2aae2}:1645)" scope="Global" shortcut="Shift+Alt+F7" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:256)" scope="Global" shortcut="Control+Alt+F1" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:256)" scope="Global" shortcut="Control+F1 C" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:256)" scope="Global" shortcut="Control+F1 Control+C" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:257)" scope="Global" shortcut="Control+F1 I" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:257)" scope="Global" shortcut="Control+F1 Control+I" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:258)" scope="Global" shortcut="Control+F1 S" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:258)" scope="Global" shortcut="Control+F1 Control+S" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:261)" scope="Global" shortcut="Control+F1 H" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:261)" scope="Global" shortcut="Control+F1 Control+H" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:272)" scope="Global" shortcut="Control+F1 R" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:272)" scope="Global" shortcut="Control+F1 Control+R" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:273)" scope="Global" shortcut="Control+F1 T" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:273)" scope="Global" shortcut="Control+F1 Control+T" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:282)" scope="Global" shortcut="Control+F1 F" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:282)" scope="Global" shortcut="Control+F1 Control+F" />
+    <VSCommand VsCommandID="({e8b06f44-6d01-11d2-aa7d-00c04f990343}:400)" scope="Global" shortcut="Control+F1 D" />
+    <VSCommand VsCommandID="({e8b06f44-6d01-11d2-aa7d-00c04f990343}:400)" scope="Global" shortcut="Control+F1 Control+D" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:257)" scope="Global" shortcut="Control+Alt+F2" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:258)" scope="Global" shortcut="Control+Alt+F3" />
+    <VSCommand VsCommandID="({4a79114a-19e4-11d3-b86b-00c04f79f802}:272)" scope="Global" shortcut="Shift+Alt+F3" />
+    <VSCommand VsCommandID="({4a9b7e50-aa16-11d0-a8c5-00a0c921a4d2}:1)" scope="Global" shortcut="Shift+Control+F12" />
+    <VSCommand VsCommandID="({e8b06f44-6d01-11d2-aa7d-00c04f990343}:4999)" scope="Global" shortcut="Control+Alt+R" />
+    <VSCommand VsCommandID="({501822e1-b5af-11d0-b4dc-00a0c91506ef}:12306)" scope="Global" shortcut="Alt+F5" />
+    <VSCommand VsCommandID="({501822e1-b5af-11d0-b4dc-00a0c91506ef}:12386)" scope="Global" shortcut="Control+Alt+F5" />
+    <VSCommand VsCommandID="({501822e1-b5af-11d0-b4dc-00a0c91506ef}:12387)" scope="Global" shortcut="Control+Q" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:256)" scope="Global" shortcut="Control+Alt+B" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:259)" scope="Global" shortcut="Control+Alt+G" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:261)" scope="Global" shortcut="Alt+F10" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:305)" scope="Global" shortcut="Control+Alt+Z" />
+    <VSCommand VsCommandID="({161abeec-5930-4cd8-a5a6-069f6beb75b1}:2584)" scope="Text Editor" shortcut="Control+Alt+Z" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:342)" scope="Global" shortcut="Control+Alt+F11" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:343)" scope="Global" shortcut="Control+Alt+F10" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:344)" scope="Global" shortcut="Shift+Control+Alt+F11" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:4099)" scope="Global" shortcut="Alt+F9 D" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:4102)" scope="Global" shortcut="Alt+F9 S" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:4103)" scope="Global" shortcut="Alt+F9 A" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:8201)" scope="Global" shortcut="Control+F11" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:16777728)" scope="Global" shortcut="Control+Alt+M D1" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:33554944)" scope="Global" shortcut="Control+Alt+M D2" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:50332160)" scope="Global" shortcut="Control+Alt+M D3" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:67109376)" scope="Global" shortcut="Control+Alt+M D4" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:16777984)" scope="Global" shortcut="Control+Alt+W D1" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:33555200)" scope="Global" shortcut="Control+Alt+W D2" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:50332416)" scope="Global" shortcut="Control+Alt+W D3" />
+    <VSCommand VsCommandID="({c9dd4a59-47fb-11d2-83e7-00c04f9902c1}:67109632)" scope="Global" shortcut="Control+Alt+W D4" />
+    <VSCommand VsCommandID="({746910da-3a87-4255-a4ae-d1083b0572a0}:520)" scope="Global" shortcut="Shift+Alt+D" />
+    <VSCommand VsCommandID="({d7e8c5e1-bdb8-11d0-9c88-0000f8040a53}:4551)" scope="HTML Editor Source View" shortcut="Shift+Control+J" />
+    <VSCommand VsCommandID="({748813a7-657c-499d-81a0-2ffdf790711a}:8)" scope="Query Designer" shortcut="Shift+Control+J" />
+    <VSCommand VsCommandID="({748813a7-657c-499d-81a0-2ffdf790711a}:8)" scope="View Designer" shortcut="Shift+Control+J" />
+    <VSCommand VsCommandID="({d7e8c5e1-bdb8-11d0-9c88-0000f8040a53}:4414)" scope="HTML Editor Design View" shortcut="Control+Alt+Left" />
+    <VSCommand VsCommandID="({d7e8c5e1-bdb8-11d0-9c88-0000f8040a53}:4415)" scope="HTML Editor Design View" shortcut="Control+Alt+Right" />
+    <VSCommand VsCommandID="({d7e8c5e1-bdb8-11d0-9c88-0000f8040a53}:4416)" scope="HTML Editor Design View" shortcut="Control+Alt+Up" />
+    <VSCommand VsCommandID="({fb41a027-57c5-4f83-9508-c326dce6d943}:10381)" scope="Class Diagram" shortcut="Shift+Alt+B" />
+    <VSCommand VsCommandID="({fb41a027-57c5-4f83-9508-c326dce6d943}:10536)" scope="Class Diagram" shortcut="Subtract" />
+    <VSCommand VsCommandID="({fb41a027-57c5-4f83-9508-c326dce6d943}:10537)" scope="Class Diagram" shortcut="Add" />
+    <VSCommand VsCommandID="({d7e8c5e1-bdb8-11d0-9c88-0000f8040a53}:15023)" scope="HTML Editor Source View" shortcut="Shift+Control+Y" />
+    <VSCommand VsCommandID="({a659f1b3-ad34-11d1-abad-0080c7b89c95}:201)" scope="Global" shortcut="Shift+Control+P" />
+    <VSCommand VsCommandID="({a659f1b3-ad34-11d1-abad-0080c7b89c95}:199)" scope="Global" shortcut="Alt+F8" />
+    <VSCommand VsCommandID="({a659f1b3-ad34-11d1-abad-0080c7b89c95}:211)" scope="Global" shortcut="Alt+F11" />
+  </VSCommands>
+  <ConflictingActions>
+    <Action actionId="ExtractMethod">
+      <shortcut>Control+R</shortcut>
+    </Action>
+    <Action actionId="IntroduceVariable">
+      <shortcut>Control+R</shortcut>
+    </Action>
+    <Action actionId="IntroduceField">
+      <shortcut>Control+R</shortcut>
+    </Action>
+    <Action actionId="IntroParameter">
+      <shortcut>Control+R</shortcut>
+    </Action>
+    <Action actionId="InlineVariable">
+      <shortcut>Control+R</shortcut>
+    </Action>
+    <Action actionId="DuplicateText">
+      <shortcut>Control+D</shortcut>
+    </Action>
+    <Action actionId="QuickFix">
+      <shortcut>Alt+Return</shortcut>
+    </Action>
+  </ConflictingActions>
+</Shortcuts>
